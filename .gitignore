@@ -1,0 +1,7 @@
+_live/
+_history/
+demo_assets/
+deploy-secure/
+/*.html
+__pycache__/
+.DS_Store
